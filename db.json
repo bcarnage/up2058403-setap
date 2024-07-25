@@ -1,0 +1,30 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project Alpha",
+      "description": "Description for Project Alpha"
+    },
+    {
+      "id": "985e",
+      "title": "project1",
+      "description": "get system working"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "projectId": "1",
+      "title": "Task 1",
+      "description": "Task 1 description",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "projectId": "1",
+      "title": "Task 2",
+      "description": "Task 2 description",
+      "completed": true
+    }
+  ]
+}
